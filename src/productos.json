@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"title": "Jack Daniels",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12300,
+		"stock": 500
+    },
+    {
+		"id": 2,
+		"title": "Johnnie Walker - Red Label",
+		"price": 7500,
+		"thumnail": "image.png",
+		"code": 12400,
+		"stock": 500
+    },
+    {
+		"id": 3,
+		"title": "Johnnie Walker - Black Label",
+		"price": 12500,
+		"thumnail": "image.png",
+		"code": 12500,
+		"stock": 500
+    },
+    {
+		"id": 4,
+		"title": "Johnnie Walker - Gold Label",
+		"price": 20000,
+		"thumnail": "image.png",
+		"code": 12600,
+		"stock": 500
+    },
+    {
+		"id": 5,
+		"title": "Chivas Regal - 18 años",
+		"price": 30500,
+		"thumnail": "image.png",
+		"code": 12700,
+		"stock": 500
+    },
+    {
+		"id": 6,
+		"title": "Ballantine's - 12 años",
+		"price": 9500,
+		"thumnail": "image.png",
+		"code": 12800,
+		"stock": 500
+    },
+    {
+		"id": 7,
+		"title": "Johnnie Walker - Blue Label",
+		"price": 99500,
+		"thumnail": "image.png",
+		"code": 12900,
+		"stock": 500
+    }
+]
